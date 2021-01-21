@@ -4,6 +4,11 @@
 <livewire:counter/>
 
 
+
+<livewire:input/>
+
+
+
 @livewireScripts
 </body>
 </html>
