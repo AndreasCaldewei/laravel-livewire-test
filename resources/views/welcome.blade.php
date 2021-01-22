@@ -7,6 +7,9 @@
 
 <livewire:input/>
 
+<livewire:form/>
+
+
 
 
 @livewireScripts
