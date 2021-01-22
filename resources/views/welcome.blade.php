@@ -11,10 +11,13 @@
 <hr>
 <livewire:company-list/>
 
+<hr>
 
+<livewire:web-component></livewire:web-component>
 
 
 
 @livewireScripts
 </body>
+    <script src="/js/app.js" ></script>
 </html>

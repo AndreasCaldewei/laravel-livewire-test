@@ -14,5 +14,9 @@
         "laravel-mix": "^6.0.6",
         "lodash": "^4.17.19",
         "postcss": "^8.1.14"
+    },
+    "dependencies": {
+        "@vaadin/vaadin": "^18.0.5",
+        "@vaadin/vaadin-date-picker": "^4.4.1"
     }
 }
