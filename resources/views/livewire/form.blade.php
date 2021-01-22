@@ -1,9 +1,9 @@
 <div>
 
 
-    <input wire:model="firstname">
-    <input wire:model="lastname">
-    <input wire:model="email">
+    <input wire:model.lazy="firstname">
+    <input wire:model.lazy="lastname">
+    <input wire:model.lazy="email">
 
 
     <div> {{$messages}}</div>
